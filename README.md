@@ -1,5 +1,5 @@
-#echo "# JackHung9527" >> README.md
-#git init
+#echo "# JackHung9527" >> README.md \n
+#git init \n
 #git add README.md
 #git commit -m "first commit"
 #git branch -M main
